@@ -1,7 +1,7 @@
 ---
 title: T-shirt design is the part of business 
 date: 2021-05-02 11:10:00
-category: canada
+category: Cryptocurrency
 image: {
 	src: "../images/blog/blog-01.jpg"
 }

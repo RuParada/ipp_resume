@@ -58,18 +58,7 @@ const Footer = ({ className, data }) => {
                     ))}
                 </div>
             </div>
-            <div className="copyright text-center ptb--40 section-separator">
-                <p className="description">
-                    &copy; {new Date().getFullYear()}.{" "}
-                    {data?.copyright_text && (
-                        <span
-                            dangerouslySetInnerHTML={{
-                                __html: data.copyright_text,
-                            }}
-                        />
-                    )}
-                </p>
-            </div>
+            
         </div>
     );
 };
