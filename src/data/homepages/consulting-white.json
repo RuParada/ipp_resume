@@ -18,10 +18,9 @@
                 }
             ],
             "animated_texts": [
-                "Full Stack Developer.",
-                "Blockchain Consulter.",
-                "Solidity Expert.",
-                "NFT Creator."
+                "DevOps Engineer.",
+                "Cloud Consulter.",
+                "AWS Expert."
             ],
             "buttons": [
                 {
@@ -137,7 +136,7 @@
             "section": "resume-section",
             "section_title": {
                 "title": "My Resume",
-                "subtitle": "7+ Years of Experience"
+                "subtitle": "5+ Years of Experience"
             }
         },
         {
@@ -226,23 +225,23 @@
                         },
                         {
                             "id": 2,
-                            "title": "React",
+                            "title": "JavaScript",
                             "value": 80
                         },
                         {
                             "id": 3,
-                            "title": "NodeJS",
-                            "value": 90
+                            "title": "Python",
+                            "value": 80
                         },
                         {
                             "id": 4,
                             "title": "SQL",
-                            "value": 75
+                            "value": 95
                         },
                         {
                             "id": 5,
-                            "title": "PHP",
-                            "value": 70
+                            "title": "Linux",
+                            "value": 90
                         }
                     ]
                 },
@@ -255,12 +254,12 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "Solidity",
+                            "title": "CI/CD",
                             "value": 85
                         },
                         {
                             "id": 2,
-                            "title": "NFT",
+                            "title": "Kubernetes",
                             "value": 80
                         },
                         {
@@ -270,12 +269,12 @@
                         },
                         {
                             "id": 4,
-                            "title": "Photoshop",
+                            "title": "Bash",
                             "value": 75
                         },
                         {
                             "id": 5,
-                            "title": "PLUGIN",
+                            "title": "PHP",
                             "value": 70
                         }
                     ]

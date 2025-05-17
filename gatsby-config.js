@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        siteUrl: "https://iparus.xyz/",
+        siteUrl: "https://itparada.netxi.in/",
         title: "Iparus - My Personal Portfolio",
         description: "Lending page ( Parada Ruslan ) with using React and Gatsby lib",
         author: "Iparus",
@@ -32,7 +32,7 @@ module.exports = {
         ],
         contact: {
             phone: "380988272893",
-            email: "ruslanych123@gmail.com",
+            email: "iparus.pro@gmail.com",
         },
     },
     plugins: [
@@ -78,7 +78,6 @@ module.exports = {
                             maxWidth: 1200,
                         },
                     },
-                    "gatsby-remark-reading-time",
                 ],
             },
         },
