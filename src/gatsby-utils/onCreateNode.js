@@ -41,7 +41,7 @@ module.exports = ({ node, actions, createNodeId }) => {
             date: node.frontmatter.date,
             image: node.frontmatter.image,
             category: node.frontmatter.category,
-            readingTime: node.fields.readingTime.text,
+            readingTime: node.fields && node.fields.readingTime ? node.fields.readingTime.text : "",
             internal: {
                 type: "Article",
                 contentDigest: node.internal.contentDigest,

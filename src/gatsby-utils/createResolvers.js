@@ -1,38 +1,24 @@
-const { slugify } = require("../utils");
-
 module.exports = ({ createResolvers }) => {
     const resolvers = {
         Article: {
             excerpt: {
-                resolve: async (source, _args, context, info) => {
-                    await context.nodeModel.prepareNodes(
-                        info.parentType,
-                        { parent: { excerpt: true } },
-                        { parent: { excerpt: true } },
-                        [info.parentType.name]
-                    );
+                resolve: (source, _args, context) => {
+                    if (!source.parent) return null;
 
-                    const newSource = context.nodeModel.getNodeById({
-                        id: source.id,
+                    const parentNode = context.nodeModel.getNodeById({
+                        id: source.parent,
                     });
-
-                    return newSource.__gatsby_resolved.parent.excerpt;
+                    return parentNode?.excerpt || null;
                 },
             },
             content: {
-                resolve: async (source, _args, context, info) => {
-                    await context.nodeModel.prepareNodes(
-                        info.parentType,
-                        { parent: { html: true } },
-                        { parent: { html: true } },
-                        [info.parentType.name]
-                    );
+                resolve: (source, _args, context) => {
+                    if (!source.parent) return null;
 
-                    const newSource = context.nodeModel.getNodeById({
-                        id: source.id,
+                    const parentNode = context.nodeModel.getNodeById({
+                        id: source.parent,
                     });
-
-                    return newSource.__gatsby_resolved.parent.html;
+                    return parentNode?.html || null;
                 },
             },
         },
