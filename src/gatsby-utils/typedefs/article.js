@@ -8,6 +8,6 @@ type Article implements Node @childof(type: "MarkdownRemark"){
     category: String!
 	readingTime: String
     excerpt: String!
-    content: String!
+    content: String
 }
 `;
