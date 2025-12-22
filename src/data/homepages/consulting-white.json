@@ -20,7 +20,7 @@
             "animated_texts": [
                 "DevOps Engineer.",
                 "Cloud Consulter.",
-                "AWS Expert."
+                "WEB Expert."
             ],
             "buttons": [
                 {
@@ -71,62 +71,62 @@
             "items": [
                 {
                     "id": 1,
-                    "title": "The services provide for design",
+                    "title": "Landing Page provide for online course Awakening",
                     "category": "Development",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Landing page for Online Course Awakening"
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Awakening of extrasensory thinking"
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-01.jpg"
+                            "src": "../images/portfolio/portfolio-01.jpeg"
                         }
                     ],
-                    "path": "#!",
+                    "path": "https://awakening-course.netlify.app/",
                     "likeCount": 600
                 },
                 {
                     "id": 2,
-                    "title": "Mobile app landing design & app maintain",
-                    "category": "Application",
+                    "title": "Landing Page provide for online seminar Creator",
+                    "category": "Development",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Landing page for seminar with payment integration"
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Online seminar of the school of extrasensory cognition “Man of the Spirit - I Am the Creator of Myself”"
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-02.jpg"
+                            "src": "../images/portfolio/portfolio-02.jpeg"
                         }
                     ],
-                    "path": "#!",
-                    "likeCount": 750
+                    "path": "https://creator-course.netlify.app/",
+                    "likeCount": 4
                 },
                 {
                     "id": 3,
-                    "title": "Logo design creativity & Application",
-                    "category": "Photoshop",
+                    "title": "Landing Page provide for Online School",
+                    "category": "Development",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Landing page for Online School 'Man of the Spirit'"
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Online School of Super-Sensory Knowledge “Man of the Spirit”"
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-03.jpg"
+                            "src": "../images/portfolio/portfolio-03.jpeg"
                         }
                     ],
-                    "path": "#!",
+                    "path": "https://online-school-man-of-spirit.netlify.app/",
                     "likeCount": 630
                 }
             ]
@@ -275,7 +275,7 @@
                         {
                             "id": 5,
                             "title": "PHP",
-                            "value": 70
+                            "value": 95
                         }
                     ]
                 }
@@ -429,7 +429,7 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "John Due",
+                            "title": "Stepico",
                             "path": "#!",
                             "images": [
                                 {
@@ -439,7 +439,7 @@
                         },
                         {
                             "id": 2,
-                            "title": "Smiths Marth",
+                            "title": "Nimbus",
                             "path": "#!",
                             "images": [
                                 {
@@ -449,7 +449,7 @@
                         },
                         {
                             "id": 3,
-                            "title": "Add Dev",
+                            "title": "Gbr Alunaya Luvaya",
                             "path": "#!",
                             "images": [
                                 {
@@ -459,7 +459,7 @@
                         },
                         {
                             "id": 4,
-                            "title": "John Due",
+                            "title": "Upwork",
                             "path": "#!",
                             "images": [
                                 {
@@ -469,7 +469,7 @@
                         },
                         {
                             "id": 5,
-                            "title": "John Due",
+                            "title": "Web.Pro",
                             "path": "#!",
                             "images": [
                                 {
@@ -479,7 +479,7 @@
                         },
                         {
                             "id": 6,
-                            "title": "Adon Smith",
+                            "title": "ITEX",
                             "path": "#!",
                             "images": [
                                 {
@@ -489,7 +489,7 @@
                         },
                         {
                             "id": 7,
-                            "title": "Smitha Mila",
+                            "title": "XT.ua",
                             "path": "#!",
                             "images": [
                                 {
@@ -499,7 +499,7 @@
                         },
                         {
                             "id": 8,
-                            "title": "Sultana Mila",
+                            "title": "Rodoogie",
                             "path": "#!",
                             "images": [
                                 {
@@ -509,7 +509,7 @@
                         },
                         {
                             "id": 9,
-                            "title": "Jannat",
+                            "title": "Profbudkom",
                             "path": "#!",
                             "images": [
                                 {
@@ -519,7 +519,7 @@
                         },
                         {
                             "id": 10,
-                            "title": "Mila Dus",
+                            "title": "Maslo",
                             "path": "#!",
                             "images": [
                                 {
@@ -529,7 +529,7 @@
                         },
                         {
                             "id": 11,
-                            "title": "Marth Smiths",
+                            "title": "illusix",
                             "path": "#!",
                             "images": [
                                 {
@@ -539,7 +539,7 @@
                         },
                         {
                             "id": 12,
-                            "title": "Marth Smiths",
+                            "title": "Kniga-Store",
                             "path": "#!",
                             "images": [
                                 {
@@ -1195,7 +1195,7 @@
                     "title": "Consulter",
                     "subtitle": "price in hour",
                     "is_featured": false,
-                    "price": "$30.00",
+                    "price": "$15.00",
                     "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary",
                     "items": [
                         {
@@ -1269,7 +1269,7 @@
                     "title": "Developing ERC 721/1155/20",
                     "subtitle": "price in hour",
                     "is_featured": true,
-                    "price": "$35.00",
+                    "price": "$15.00",
                     "description": "Making this the first true generator on the Internet. It uses a dictionary & plugin Development.",
                     "items": [
                         {
@@ -1340,10 +1340,10 @@
                 {
                     "id": "pricing-premium",
                     "inner_title": "Create Front-end",
-                    "title": "Developing web site/mobile app",
+                    "title": "Developing web site",
                     "subtitle": "price in hour",
                     "is_featured": false,
-                    "price": "$22.00",
+                    "price": "$15.00",
                     "description": "I will install your desire theme and made like Theme demo and customize your single page( homepage)",
                     "items": [
                         {
@@ -1430,7 +1430,7 @@
             },
             "images": [
                 {
-                    "src": "../images/contact/contact1.png"
+                    "src": "../images/slider/banner.jpg"
                 }
             ],
             "headings": [
@@ -1443,7 +1443,7 @@
             ],
             "texts": [
                 {
-                    "content": "I am available for freelance work. Connect with me via and call in to my account."
+                    "content": "I am available for work. Connect with me via and call in to my account."
                 }
             ]
         }
