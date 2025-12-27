@@ -87,7 +87,7 @@
                         }
                     ],
                     "path": "https://awakening-course.netlify.app/",
-                    "likeCount": 600
+                    "likeCount": 2
                 },
                 {
                     "id": 2,
@@ -107,7 +107,7 @@
                         }
                     ],
                     "path": "https://creator-course.netlify.app/",
-                    "likeCount": 4
+                    "likeCount": 5
                 },
                 {
                     "id": 3,
@@ -127,7 +127,7 @@
                         }
                     ],
                     "path": "https://online-school-man-of-spirit.netlify.app/",
-                    "likeCount": 630
+                    "likeCount": 4
                 }
             ]
         },
@@ -153,24 +153,31 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "KHAI",
-                            "subtitle": "University of DVI (1997 - 2001)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Bachelor - Computer Science Engineering",
+                            "subtitle": "National Aviation University 'CHI', Kharkiv (2007 - 2011)",
+                            "rating": "4.70/5",
+                            "description": "Education in computer science engineering with focus on computer systems, software development and system architecture. Comprehensive knowledge in algorithms, databases and web technologies."
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
-                            "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Master - Computer Systems and Networks",
+                            "subtitle": "National Aviation University 'CHI', Kharkiv (2011 - 2012)",
+                            "rating": "4.85/5",
+                            "description": "Specialization in computer systems and networks. Advanced knowledge in cloud infrastructure, system optimization and advanced network technologies."
                         },
                         {
                             "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
-                            "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "German Language Course - B2 Level",
+                            "subtitle": "Sprachinstitut Tübingen (SIT) (2023 - 2025)",
+                            "rating": "4.90/5",
+                            "description": "Intensive German language course at B2 level. telc B2 exam planned for March 2025. Continuous improvement of German language skills alongside technical work."
+                        },
+                        {
+                            "id": 4,
+                            "title": "DevOps Mastery Specialization",
+                            "subtitle": "Coursera (2024 - 2025)",
+                            "rating": "4.95/5",
+                            "description": "Completed online specialization in DevOps covering 8 essential courses: Git Basics, Jenkins for Beginners, Docker Basics, Kubernetes Basics, Ansible for Absolute Beginners, Terraform for Absolute Beginner, and Python. Gained hands-on experience in automating, managing, and optimizing IT infrastructure with practical skills for DevOps Engineer and SRE roles. Verified: https://coursera.org/verify/specialization/BCYIPUMPZ3PO"
                         }
                     ]
                 },
@@ -183,24 +190,31 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
-                            "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "DevOps Backend Developer",
+                            "subtitle": "Stepico, Lviv, Ukraine (10.2022 - 03.2023)",
+                            "rating": "4.85/5",
+                            "description": "Built staging and production environments with Docker and GitLab CI/CD. Deployed cloud infrastructure on AWS (EC2, RDS, Amazon MQ) with Kubernetes. Monitored and troubleshot Kubernetes clusters. Scaled a decentralized platform with over 15,000 active users."
                         },
                         {
                             "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
-                            "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Cloud / Backend Developer",
+                            "subtitle": "Nimbus, Kyiv, Ukraine (10.2021 - 10.2022)",
+                            "rating": "4.88/5",
+                            "description": "Installed and configured Cardano Blockchain Nodes on AWS. Supported implementation of deployment processes with NodeJS and Docker. Created backend (NodeJS) and API integrations. Optimized cloud infrastructure (AWS EC2, S3)."
                         },
                         {
                             "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
-                            "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Backend Developer / DevOps Support",
+                            "subtitle": "GbR Alunaya Luvaya, Kyiv/Tübingen (10.2018 - 05.2021)",
+                            "rating": "4.92/5",
+                            "description": "Developed and maintained web applications (Laravel, React). Implemented CI/CD with Bitbucket Pipelines. Managed VPS servers and system optimization. Integrated APIs for marketing and payment systems."
+                        },
+                        {
+                            "id": 4,
+                            "title": "PHP Fullstack Developer",
+                            "subtitle": "Freelance (06.2012 - 04.2018)",
+                            "rating": "4.85/5",
+                            "description": "Worked on multiple projects including Mobilsoft Casino Portal (Kohana PHP), WebPro custom CMS solution, Shuneez (CentOS management, Laravel, real-time delivery tracking API integration with GitHub Actions CI/CD), Kniga-Store Opencart platform (1,500+ product SKUs), WebKing scalable MySQL schemas and module development, and illusix frontend modules with jQuery and legacy code debugging."
                         }
                     ]
                 }
@@ -295,24 +309,24 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "CI/CD Pipeline with Bitbucket Pipelines",
+                            "subtitle": "GbR Alunaya Luvaya (2018 - 2021)",
+                            "rating": "4.80/5",
+                            "description": "Set up and optimized CI/CD pipelines with Bitbucket. Automated deployment processes and reduced manual work steps. Implemented automated testing and security scanning."
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
-                            "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Cardano Blockchain Integration on AWS",
+                            "subtitle": "Nimbus (2021 - 2022)",
+                            "rating": "4.85/5",
+                            "description": "Installed and configured Cardano Blockchain Nodes on AWS Mainnet and Testnet. Implemented reliable deployment processes for node infrastructure. Monitored and maintained blockchain nodes."
                         },
                         {
                             "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
-                            "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Kubernetes Cluster Setup and Scaling",
+                            "subtitle": "Stepico (2022 - 2023)",
+                            "rating": "4.95/5",
+                            "description": "Built production Kubernetes clusters with Docker and GitLab CI/CD. Implemented auto-scaling and load-balancing. Scaled a decentralized platform for 15,000+ active users. Monitoring via Lens IDE and Prometheus."
                         }
                     ]
                 },
@@ -362,24 +376,31 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "CI/CD Pipeline mit Bitbucket Pipelines",
+                            "subtitle": "GbR Alunaya Luvaya (2018 - 2021)",
+                            "rating": "4.80/5",
+                            "description": "Einrichtung und Optimierung von CI/CD Pipelines mit Bitbucket. Automatisierung von Deployment-Prozessen und Reduzierung von manuellen Arbeitsschritten. Implementierung von automatisierten Tests und Security Scanning."
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
-                            "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Cardano Blockchain Integration auf AWS",
+                            "subtitle": "Nimbus (2021 - 2022)",
+                            "rating": "4.85/5",
+                            "description": "Installation und Konfiguration von Cardano Blockchain Nodes auf AWS Mainnet und Testnet. Implementierung von zuverlässigen Deployment-Prozessen für Node-Infrastruktur. Monitoring und Maintenance der Blockchain-Knoten."
                         },
                         {
                             "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
-                            "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Kubernetes-Cluster Aufbau und Skalierung",
+                            "subtitle": "Stepico (2022 - 2023)",
+                            "rating": "4.95/5",
+                            "description": "Aufbau von produktiven Kubernetes-Clustern mit Docker und GitLab CI/CD. Implementierung von Auto-Scaling und Load-Balancing. Skalierung einer dezentralen Plattform für 15.000+ aktive Nutzer. Monitoring via Lens IDE und Prometheus."
+                        },
+                        {
+                            "id": 4,
+                            "title": "ERC721/ERC1155 Smart Contract Development",
+                            "subtitle": "Freelance & Nimbus (2022 - 2023)",
+                            "rating": "4.95/5",
+                            "description": "Developed complete ERC721/ERC1155 smart contract suite for NFT marketplace. Implemented auction mechanisms, royalty protocols, and gas-optimized code. Audited and deployed to mainnet."
                         }
                     ]
                 },
@@ -392,24 +413,24 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
-                            "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Web Application Development with Laravel and React",
+                            "subtitle": "GbR Alunaya Luvaya & Freelance (2012 - 2021)",
+                            "rating": "4.80/5",
+                            "description": "Developed web applications with PHP (Laravel, Kohana, ZF) and MySQL. Server administration (CentOS, CRON, Monitoring). Database design and performance optimization. Collaboration with cross-functional teams."
                         },
                         {
                             "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
-                            "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "VPS Server Management and System Optimization",
+                            "subtitle": "Freelance / GbR Alunaya Luvaya (2012 - 2021)",
+                            "rating": "4.85/5",
+                            "description": "Managed VPS servers and system optimization. Installed and configured web servers (Apache, Nginx). Monitored and troubleshot server systems. Performance tuning and security."
                         },
                         {
                             "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
-                            "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "API Integration and Backend Development",
+                            "subtitle": "Freelance & Nimbus (2012 - 2022)",
+                            "rating": "4.90/5",
+                            "description": "Integrated APIs for marketing and payment systems. Backend development with NodeJS and PHP. RESTful API design and implementation. Database optimization and scaling for growing systems."
                         }
                     ]
                 }
@@ -433,7 +454,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -443,7 +464,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -453,7 +474,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -463,7 +484,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-04.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -473,7 +494,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -483,7 +504,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -493,7 +514,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -503,7 +524,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -513,7 +534,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -523,7 +544,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -533,7 +554,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -543,7 +564,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         }
@@ -559,7 +580,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -569,7 +590,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -579,7 +600,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -589,7 +610,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-04.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -599,7 +620,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -609,7 +630,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -619,7 +640,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -629,7 +650,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -639,7 +660,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -649,7 +670,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -659,7 +680,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -669,7 +690,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         }
@@ -685,7 +706,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -695,7 +716,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -705,7 +726,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -715,7 +736,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-04.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -725,7 +746,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -735,7 +756,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -745,7 +766,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -755,7 +776,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -765,7 +786,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -775,7 +796,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -785,7 +806,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -795,7 +816,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         }
@@ -811,7 +832,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -821,7 +842,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -831,7 +852,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -841,7 +862,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-04.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -851,7 +872,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -861,7 +882,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -871,7 +892,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -881,7 +902,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -891,7 +912,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -901,7 +922,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -911,7 +932,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -921,7 +942,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         }
@@ -937,7 +958,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -947,7 +968,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -957,7 +978,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -967,7 +988,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-04.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -977,7 +998,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -987,7 +1008,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -997,7 +1018,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1007,7 +1028,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1017,7 +1038,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1027,7 +1048,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1037,7 +1058,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1047,7 +1068,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         }
@@ -1063,7 +1084,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1073,7 +1094,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1083,7 +1104,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1093,7 +1114,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-04.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1103,7 +1124,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1113,7 +1134,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1123,7 +1144,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1133,7 +1154,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-02.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1143,7 +1164,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1153,7 +1174,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-05.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1163,7 +1184,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-01.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         },
@@ -1173,7 +1194,7 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/brand-03.png"
+                                    "src": "../images/client/png/brand.png"
                                 }
                             ]
                         }
@@ -1190,226 +1211,226 @@
             },
             "inner": [
                 {
-                    "id": "pricing-static",
-                    "inner_title": "Basic",
-                    "title": "Consulter",
-                    "subtitle": "price in hour",
+                    "id": "pricing-consulting",
+                    "inner_title": "Cloud Consulting",
+                    "title": "Cloud Architect Consultation",
+                    "subtitle": "per hour",
                     "is_featured": false,
-                    "price": "$15.00",
-                    "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary",
+                    "price": "$85.00",
+                    "description": "Professional cloud architecture consultation for enterprise infrastructure planning and optimization. Includes architecture design, cost analysis, and implementation strategy.",
                     "items": [
                         {
                             "id": 1,
-                            "title": "1 Page with Elementor",
+                            "title": "Architecture Design & Planning",
                             "available": true
                         },
                         {
                             "id": 2,
-                            "title": "Design Customization",
+                            "title": "Cloud Provider Selection",
                             "available": true
                         },
                         {
                             "id": 3,
-                            "title": "Responsive Design",
+                            "title": "Cost Optimization Analysis",
                             "available": true
                         },
                         {
                             "id": 4,
-                            "title": "Content Upload",
+                            "title": "Security & Compliance Review",
                             "available": true
                         },
                         {
                             "id": 5,
-                            "title": "Design Customization",
+                            "title": "Scalability Assessment",
                             "available": true
                         },
                         {
                             "id": 6,
-                            "title": "2 Plugins/Extensions",
+                            "title": "Disaster Recovery Planning",
                             "available": true
                         },
                         {
                             "id": 7,
-                            "title": "multipage Elementor",
+                            "title": "Migration Strategy",
                             "available": true
                         },
                         {
                             "id": 8,
-                            "title": "Design Figma",
+                            "title": "Performance Optimization",
                             "available": true
                         },
                         {
                             "id": 9,
-                            "title": "MAintaine Design",
+                            "title": "Kubernetes Consultation",
                             "available": true
                         },
                         {
                             "id": 10,
-                            "title": "Content Upload",
+                            "title": "CI/CD Pipeline Design",
                             "available": true
                         },
                         {
                             "id": 11,
-                            "title": "Design With XD",
+                            "title": "Follow-up Support (30 days)",
                             "available": false
                         },
                         {
                             "id": 12,
-                            "title": "8 Plugins/Extensions",
+                            "title": "Detailed Report Included",
                             "available": true
                         }
                     ],
-                    "orderLink": "#!",
-                    "deliveryTime": 2,
-                    "revission": "Unlimited"
+                    "orderLink": "#contacts",
+                    "deliveryTime": 5,
+                    "revission": "1 Revision"
                 },
                 {
-                    "id": "pricing-standard",
-                    "inner_title": "Create NFT/Token",
-                    "title": "Developing ERC 721/1155/20",
-                    "subtitle": "price in hour",
+                    "id": "pricing-development",
+                    "inner_title": "Web Development",
+                    "title": "Full Stack Web Development",
+                    "subtitle": "per hour",
                     "is_featured": true,
-                    "price": "$15.00",
-                    "description": "Making this the first true generator on the Internet. It uses a dictionary & plugin Development.",
+                    "price": "$65.00",
+                    "description": "Complete web development services using modern tech stack. React, Node.js, Laravel, PostgreSQL. Responsive, scalable, production-ready applications.",
                     "items": [
                         {
                             "id": 1,
-                            "title": "Presale Smart Contract",
+                            "title": "Frontend Development (React)",
                             "available": true
                         },
                         {
                             "id": 2,
-                            "title": "Design Customization",
+                            "title": "Backend API Development",
                             "available": true
                         },
                         {
                             "id": 3,
-                            "title": "Responsive Design",
+                            "title": "Database Design & Implementation",
                             "available": true
                         },
                         {
                             "id": 4,
-                            "title": "Content Upload",
+                            "title": "Responsive Design",
                             "available": true
                         },
                         {
                             "id": 5,
-                            "title": "Design Customization",
+                            "title": "UI/UX Integration",
                             "available": true
                         },
                         {
                             "id": 6,
-                            "title": "2 Plugins/Extensions",
+                            "title": "Payment Gateway Integration",
                             "available": true
                         },
                         {
                             "id": 7,
-                            "title": "multipage Elementor",
+                            "title": "Authentication System",
                             "available": true
                         },
                         {
                             "id": 8,
-                            "title": "Design Figma",
+                            "title": "API Documentation",
                             "available": true
                         },
                         {
                             "id": 9,
-                            "title": "MAintaine Design",
+                            "title": "Testing & QA",
                             "available": true
                         },
                         {
                             "id": 10,
-                            "title": "Content Upload",
+                            "title": "Deployment & Hosting Setup",
                             "available": true
                         },
                         {
                             "id": 11,
-                            "title": "Design With XD",
-                            "available": false
+                            "title": "Performance Optimization",
+                            "available": true
                         },
                         {
                             "id": 12,
-                            "title": "8 Plugins/Extensions",
+                            "title": "30 Days Free Support",
                             "available": true
                         }
                     ],
-                    "orderLink": "#!",
-                    "deliveryTime": 2,
+                    "orderLink": "#contacts",
+                    "deliveryTime": 10,
                     "revission": "Unlimited"
                 },
                 {
-                    "id": "pricing-premium",
-                    "inner_title": "Create Front-end",
-                    "title": "Developing web site",
-                    "subtitle": "price in hour",
+                    "id": "pricing-blockchain",
+                    "inner_title": "Blockchain & Web3",
+                    "title": "Smart Contract Development",
+                    "subtitle": "per hour",
                     "is_featured": false,
-                    "price": "$15.00",
-                    "description": "I will install your desire theme and made like Theme demo and customize your single page( homepage)",
+                    "price": "$95.00",
+                    "description": "Expert smart contract development and Web3 integration. ERC20, ERC721, ERC1155 tokens, DeFi protocols, NFT marketplaces. Audited, optimized, and production-ready.",
                     "items": [
                         {
                             "id": 1,
-                            "title": "1 Page with Elementor",
+                            "title": "ERC20 Token Development",
                             "available": true
                         },
                         {
                             "id": 2,
-                            "title": "Design Customization",
+                            "title": "ERC721 NFT Contract",
                             "available": true
                         },
                         {
                             "id": 3,
-                            "title": "Responsive Design",
+                            "title": "ERC1155 Multi-Token",
                             "available": true
                         },
                         {
                             "id": 4,
-                            "title": "Content Upload",
+                            "title": "DeFi Protocol Development",
                             "available": true
                         },
                         {
                             "id": 5,
-                            "title": "Design Customization",
+                            "title": "Staking Mechanism",
                             "available": true
                         },
                         {
                             "id": 6,
-                            "title": "2 Plugins/Extensions",
+                            "title": "Smart Contract Audit",
                             "available": true
                         },
                         {
                             "id": 7,
-                            "title": "multipage Elementor",
+                            "title": "Gas Optimization",
                             "available": true
                         },
                         {
                             "id": 8,
-                            "title": "Design Figma",
+                            "title": "Web3 Frontend Integration",
                             "available": true
                         },
                         {
                             "id": 9,
-                            "title": "MAintaine Design",
+                            "title": "Testnet Deployment",
                             "available": true
                         },
                         {
                             "id": 10,
-                            "title": "Content Upload",
+                            "title": "Mainnet Deployment",
                             "available": true
                         },
                         {
                             "id": 11,
-                            "title": "Design With XD",
-                            "available": false
+                            "title": "Security Testing",
+                            "available": true
                         },
                         {
                             "id": 12,
-                            "title": "8 Plugins/Extensions",
+                            "title": "60 Days Technical Support",
                             "available": true
                         }
                     ],
-                    "orderLink": "#!",
-                    "deliveryTime": 2,
-                    "revission": "Unlimited"
+                    "orderLink": "#contacts",
+                    "deliveryTime": 7,
+                    "revission": "2 Revisions"
                 }
             ]
         },

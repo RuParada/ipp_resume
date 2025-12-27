@@ -3,7 +3,7 @@ title: T-shirt design is the part of design
 date: 2021-05-02 11:10:00
 category: Idea
 image: {
-	src: "../images/blog/blog-big-01.jpg"
+	src: "../images/blog/Coursera-certificate-DevOps-Master-BCYIPUMPZ3PO.jpg"
 }
 ---
 

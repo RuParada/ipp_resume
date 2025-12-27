@@ -3,7 +3,7 @@ title: Staking my token and get free consultation
 date: 2021-05-03 11:10:00
 category: Services
 image: {
-	src: "../images/blog/blog-02.jpg"
+	src: "../images/blog/token.png"
 }
 ---
 
