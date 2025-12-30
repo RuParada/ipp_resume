@@ -40,8 +40,8 @@
             "items": [
                 {
                     "id": 1,
-                    "title": "NFT Marketplace",
-                    "description": "I create generative/exclusive collection with standart ERC721 and ERC1155 in opensea, rarrible or your personal web3 site.",
+                    "title": "Web Site Development",
+                    "description": "I create web site.",
                     "icon": "Menu",
                     "path": "#!"
                 },
@@ -55,7 +55,7 @@
                 {
                     "id": 3,
                     "title": "Smart Contract & WEB3",
-                    "description": "I'm realisation your idea in blockchain and web site develop",
+                    "description": "I'm realisation your idea in blockchain for your personal web site or crate personal NFT project/marketplaces",
                     "icon": "Tv",
                     "path": "#!"
                 }
@@ -128,6 +128,86 @@
                     ],
                     "path": "https://online-school-man-of-spirit.netlify.app/",
                     "likeCount": 4
+                },
+                {
+                    "id": 4,
+                    "title": "Landing Page provide for Offline School",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Landing page for Offline School 'Man of the Spirit'"
+                        },
+                        {
+                            "content": "Offline School of Super-Sensory Knowledge “Man of the Spirit”"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-04.jpg"
+                        }
+                    ],
+                    "path": "https://offline-school-human-of-spirit.netlify.app",
+                    "likeCount": 1
+                },
+                {
+                    "id": 5,
+                    "title": "Landing Page provide for online course Energy Practices",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Landing page for Online Course Energy Practices"
+                        },
+                        {
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Energy Practices for Health and Longevity"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-05.jpg"
+                        }
+                    ],
+                    "path": "https://interio-course.netlify.app/",
+                    "likeCount": 0
+                },
+                {
+                    "id": 6,
+                    "title": "Landing Page provide for online course Energy Practices",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Landing page for Online Course Energy Practices"
+                        },
+                        {
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Energy Practices for Health and Longevity"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-06.jpg"
+                        }
+                    ],
+                    "path": "https://wayunity.netlify.app",
+                    "likeCount": 0
+                },
+                {
+                    "id": 7,
+                    "title": "Landing Page provide for online course Energy Practices",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Landing page for Online Course Energy Practices"
+                        },
+                        {
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Energy Practices for Health and Longevity"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-07.jpg"
+                        }
+                    ],
+                    "path": "https://cognition-meditation.netlify.app",
+                    "likeCount": 0
                 }
             ]
         },
@@ -153,30 +233,30 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "Bachelor - Computer Science Engineering",
+                            "title": "Bachelor - Computer Engineering",
                             "subtitle": "National Aviation University 'CHI', Kharkiv (2007 - 2011)",
-                            "rating": "4.70/5",
-                            "description": "Education in computer science engineering with focus on computer systems, software development and system architecture. Comprehensive knowledge in algorithms, databases and web technologies."
+                            "rating": "4.20/5",
+                            "description": "Education in computer engineering with focus on computer systems, software development and system architecture. Comprehensive knowledge in algorithms, databases and web technologies."
                         },
                         {
                             "id": 2,
                             "title": "Master - Computer Systems and Networks",
                             "subtitle": "National Aviation University 'CHI', Kharkiv (2011 - 2012)",
-                            "rating": "4.85/5",
+                            "rating": "4/5",
                             "description": "Specialization in computer systems and networks. Advanced knowledge in cloud infrastructure, system optimization and advanced network technologies."
                         },
                         {
                             "id": 3,
                             "title": "German Language Course - B2 Level",
                             "subtitle": "Sprachinstitut Tübingen (SIT) (2023 - 2025)",
-                            "rating": "4.90/5",
+                            "rating": "144.5/165",
                             "description": "Intensive German language course at B2 level. telc B2 exam planned for March 2025. Continuous improvement of German language skills alongside technical work."
                         },
                         {
                             "id": 4,
                             "title": "DevOps Mastery Specialization",
                             "subtitle": "Coursera (2024 - 2025)",
-                            "rating": "4.95/5",
+                            "rating": "92/100",
                             "description": "Completed online specialization in DevOps covering 8 essential courses: Git Basics, Jenkins for Beginners, Docker Basics, Kubernetes Basics, Ansible for Absolute Beginners, Terraform for Absolute Beginner, and Python. Gained hands-on experience in automating, managing, and optimizing IT infrastructure with practical skills for DevOps Engineer and SRE roles. Verified: https://coursera.org/verify/specialization/BCYIPUMPZ3PO"
                         }
                     ]
@@ -211,7 +291,7 @@
                         },
                         {
                             "id": 4,
-                            "title": "PHP Fullstack Developer",
+                            "title": "Backend Developer",
                             "subtitle": "Freelance (06.2012 - 04.2018)",
                             "rating": "4.85/5",
                             "description": "Worked on multiple projects including Mobilsoft Casino Portal (Kohana PHP), WebPro custom CMS solution, Shuneez (CentOS management, Laravel, real-time delivery tracking API integration with GitHub Actions CI/CD), Kniga-Store Opencart platform (1,500+ product SKUs), WebKing scalable MySQL schemas and module development, and illusix frontend modules with jQuery and legacy code debugging."
@@ -1216,7 +1296,7 @@
                     "title": "Cloud Architect Consultation",
                     "subtitle": "per hour",
                     "is_featured": false,
-                    "price": "$85.00",
+                    "price": "$35.00",
                     "description": "Professional cloud architecture consultation for enterprise infrastructure planning and optimization. Includes architecture design, cost analysis, and implementation strategy.",
                     "items": [
                         {
@@ -1290,7 +1370,7 @@
                     "title": "Full Stack Web Development",
                     "subtitle": "per hour",
                     "is_featured": true,
-                    "price": "$65.00",
+                    "price": "$15.00",
                     "description": "Complete web development services using modern tech stack. React, Node.js, Laravel, PostgreSQL. Responsive, scalable, production-ready applications.",
                     "items": [
                         {
@@ -1364,7 +1444,7 @@
                     "title": "Smart Contract Development",
                     "subtitle": "per hour",
                     "is_featured": false,
-                    "price": "$95.00",
+                    "price": "$28.00",
                     "description": "Expert smart contract development and Web3 integration. ERC20, ERC721, ERC1155 tokens, DeFi protocols, NFT marketplaces. Audited, optimized, and production-ready.",
                     "items": [
                         {
