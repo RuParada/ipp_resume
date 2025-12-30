@@ -203,10 +203,110 @@
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-07.jpg"
+                            "src": "../images/portfolio/portfolio-06.jpg"
                         }
                     ],
                     "path": "https://cognition-meditation.netlify.app",
+                    "likeCount": 0
+                },
+                {
+                    "id": 8,
+                    "title": "Landing Page provide for online course Energy Practices",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Landing page for Online Course Energy Practices"
+                        },
+                        {
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Energy Practices for Health and Longevity"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-07.jpg"
+                        }
+                    ],
+                    "path": "https://supersensible-cognition.netlify.app",
+                    "likeCount": 0
+                },
+                {
+                    "id": 9,
+                    "title": "Landing Page provide for online course Energy Practices",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Landing page for Online Course Energy Practices"
+                        },
+                        {
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Energy Practices for Health and Longevity"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-08.jpg"
+                        }
+                    ],
+                    "path": "https://being-course.netlify.app",
+                    "likeCount": 0
+                },
+                {
+                    "id": 10,
+                    "title": "Landing Page provide for online course Energy Practices",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Landing page for Online Course Energy Practices"
+                        },
+                        {
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Energy Practices for Health and Longevity"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-09.jpg"
+                        }
+                    ],
+                    "path": "https://advance-knowlege.netlify.app",
+                    "likeCount": 0
+                },
+                {
+                    "id": 11,
+                    "title": "Landing Page provide for online course Karma",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Landing page for Online Course Karma"
+                        },
+                        {
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Karma"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-10.jpg"
+                        }
+                    ],
+                    "path": "https://karma-course.netlify.app",
+                    "likeCount": 0
+                },
+                {
+                    "id": 12,
+                    "title": "Landing Page provide for online course Karma",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Landing page for Online Course Karma"
+                        },
+                        {
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Karma"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-11.jpg"
+                        }
+                    ],
+                    "path": "https://spirit-hierarchies.netlify.app",
                     "likeCount": 0
                 }
             ]
