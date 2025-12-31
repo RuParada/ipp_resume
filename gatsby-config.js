@@ -31,8 +31,8 @@ module.exports = {
             },
         ],
         contact: {
-            phone: "380988272893",
-            email: "iparus.pro@gmail.com",
+            phone: "41758808128",
+            email: "it.parada.de@gmail.com",
         },
     },
     plugins: [
@@ -84,8 +84,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: "Inbio",
-                short_name: "inbio",
+                name: "Iparus",
+                short_name: "iparus",
                 theme_color: "#ff014f",
                 background_color: "#ffffff",
                 display: "standalone",

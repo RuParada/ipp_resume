@@ -41,22 +41,22 @@
                 {
                     "id": 1,
                     "title": "Web Site Development",
-                    "description": "I create web site.",
+                    "description": "I create web sites and consulting the best cloud/server solutions for your project",
                     "icon": "Menu",
                     "path": "#!"
                 },
                 {
                     "id": 2,
                     "title": "Create strategic",
-                    "description": "I create buissnes logic for ypur project, consulte best realisation in the cryptocurency world",
-                    "icon": "BookOpen",
+                    "description": "I create buissnes logic for ypur project, consulte best realisation in the web2 (site) or web3 (crypto) world",
+                    "icon": "Tv",
                     "path": "#!"
                 },
                 {
                     "id": 3,
                     "title": "Smart Contract & WEB3",
                     "description": "I'm realisation your idea in blockchain for your personal web site or crate personal NFT project/marketplaces",
-                    "icon": "Tv",
+                    "icon": "BookOpen",
                     "path": "#!"
                 }
             ]
@@ -151,14 +151,14 @@
                 },
                 {
                     "id": 5,
-                    "title": "Landing Page provide for online course Energy Practices",
+                    "title": "Landing Page provide for offline seminar Creator",
                     "category": "Development",
                     "texts": [
                         {
-                            "content": "Landing page for Online Course Energy Practices"
+                            "content": "Landing page for seminar"
                         },
                         {
-                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Energy Practices for Health and Longevity"
+                            "content": "offline seminar of the school of extrasensory cognition “Man of the Spirit - I Am the Creator of Myself”"
                         }
                     ],
                     "images": [
@@ -171,14 +171,14 @@
                 },
                 {
                     "id": 6,
-                    "title": "Landing Page provide for online course Energy Practices",
+                    "title": "Landing Page provide for online course",
                     "category": "Development",
                     "texts": [
                         {
-                            "content": "Landing page for Online Course Energy Practices"
+                            "content": "Landing page for Online Course"
                         },
                         {
-                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Energy Practices for Health and Longevity"
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' for Health and Longevity"
                         }
                     ],
                     "images": [
@@ -191,19 +191,19 @@
                 },
                 {
                     "id": 7,
-                    "title": "Landing Page provide for online course Energy Practices",
+                    "title": "Landing Page provide for online course",
                     "category": "Development",
                     "texts": [
                         {
-                            "content": "Landing page for Online Course Energy Practices"
+                            "content": "Landing page for Online Mini-Course"
                         },
                         {
-                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Energy Practices for Health and Longevity"
+                            "content": "Development of a landing page for a mini-course Cognition Meditation"
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-06.jpg"
+                            "src": "../images/portfolio/portfolio-14.jpg"
                         }
                     ],
                     "path": "https://cognition-meditation.netlify.app",
@@ -211,14 +211,14 @@
                 },
                 {
                     "id": 8,
-                    "title": "Landing Page provide for online course Energy Practices",
+                    "title": "Landing Page provide for online course",
                     "category": "Development",
                     "texts": [
                         {
-                            "content": "Landing page for Online Course Energy Practices"
+                            "content": "Landing page for Online Course"
                         },
                         {
-                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Energy Practices for Health and Longevity"
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' for Health and Longevity"
                         }
                     ],
                     "images": [
@@ -231,14 +231,14 @@
                 },
                 {
                     "id": 9,
-                    "title": "Landing Page provide for online course Energy Practices",
+                    "title": "Landing Page provide for online course",
                     "category": "Development",
                     "texts": [
                         {
-                            "content": "Landing page for Online Course Energy Practices"
+                            "content": "Landing page for Online Course"
                         },
                         {
-                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' Energy Practices for Health and Longevity"
+                            "content": "Online course of the school of extrasensory cognition 'Man of the Spirit' for Health and Longevity"
                         }
                     ],
                     "images": [
@@ -307,6 +307,46 @@
                         }
                     ],
                     "path": "https://spirit-hierarchies.netlify.app",
+                    "likeCount": 0
+                },
+                {
+                    "id": 13,
+                    "title": "Developing a website from scratch on the Drupal CMS platform.",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Website blog on CMS Drupal version 7"
+                        },
+                        {
+                            "content": "A website for studying the ancient culture of the Slavs and their traditions."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-12.jpg"
+                        }
+                    ],
+                    "path": "https://rodobogie.org",
+                    "likeCount": 0
+                },
+                {
+                    "id": 14,
+                    "title": "Website development from scratch and admin panel on the Laravel framework.",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Website blog on framework Laravel v.5"
+                        },
+                        {
+                            "content": "A charitable foundation created to support schoolchildren from low-income families in the city of Sokal."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-13.jpg"
+                        }
+                    ],
+                    "path": "https://ukrainesfuture.com",
                     "likeCount": 0
                 }
             ]
@@ -626,12 +666,12 @@
             "inner": [
                 {
                     "id": "clinet-js",
-                    "inner_title": "JavaScript",
+                    "inner_title": "Development",
                     "items": [
                         {
                             "id": 1,
                             "title": "Stepico",
-                            "path": "#!",
+                            "path": "https://stepico.com/",
                             "images": [
                                 {
                                     "src": "../images/client/png/brand.png"
@@ -641,7 +681,7 @@
                         {
                             "id": 2,
                             "title": "Nimbus",
-                            "path": "#!",
+                            "path": "https://nimbusplatform.io/",
                             "images": [
                                 {
                                     "src": "../images/client/png/brand.png"
@@ -651,7 +691,7 @@
                         {
                             "id": 3,
                             "title": "Gbr Alunaya Luvaya",
-                            "path": "#!",
+                            "path": "https://www.alunaya.space/",
                             "images": [
                                 {
                                     "src": "../images/client/png/brand.png"
@@ -661,7 +701,7 @@
                         {
                             "id": 4,
                             "title": "Upwork",
-                            "path": "#!",
+                            "path": "https://www.upwork.com/",
                             "images": [
                                 {
                                     "src": "../images/client/png/brand.png"
@@ -671,7 +711,7 @@
                         {
                             "id": 5,
                             "title": "Web.Pro",
-                            "path": "#!",
+                            "path": "https://www.web.pro/",
                             "images": [
                                 {
                                     "src": "../images/client/png/brand.png"
@@ -681,7 +721,7 @@
                         {
                             "id": 6,
                             "title": "ITEX",
-                            "path": "#!",
+                            "path": "https://itex.tech",
                             "images": [
                                 {
                                     "src": "../images/client/png/brand.png"
@@ -691,7 +731,7 @@
                         {
                             "id": 7,
                             "title": "XT.ua",
-                            "path": "#!",
+                            "path": "https://xt.ua",
                             "images": [
                                 {
                                     "src": "../images/client/png/brand.png"
@@ -701,7 +741,7 @@
                         {
                             "id": 8,
                             "title": "Rodoogie",
-                            "path": "#!",
+                            "path": "https://rodoogie.org",
                             "images": [
                                 {
                                     "src": "../images/client/png/brand.png"
@@ -711,7 +751,7 @@
                         {
                             "id": 9,
                             "title": "Profbudkom",
-                            "path": "#!",
+                            "path": "https://profbudkom.com.ua",
                             "images": [
                                 {
                                     "src": "../images/client/png/brand.png"
@@ -731,7 +771,7 @@
                         {
                             "id": 11,
                             "title": "illusix",
-                            "path": "#!",
+                            "path": "https://harkov.cataloxy.com.ua/firms/www.illusix.com.htm",
                             "images": [
                                 {
                                     "src": "../images/client/png/brand.png"
@@ -741,637 +781,7 @@
                         {
                             "id": 12,
                             "title": "Kniga-Store",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "clinet-design",
-                    "inner_title": "Product Design",
-                    "items": [
-                        {
-                            "id": 1,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 2,
-                            "title": "Smiths Marth",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 3,
-                            "title": "Add Dev",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 5,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 6,
-                            "title": "Adon Smith",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 7,
-                            "title": "Smitha Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "clinet-wp",
-                    "inner_title": "Wordpress",
-                    "items": [
-                        {
-                            "id": 1,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 2,
-                            "title": "Smiths Marth",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 3,
-                            "title": "Add Dev",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 5,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 6,
-                            "title": "Adon Smith",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 7,
-                            "title": "Smitha Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "clinet-to-react",
-                    "inner_title": "HTML to React",
-                    "items": [
-                        {
-                            "id": 1,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 2,
-                            "title": "Smiths Marth",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 3,
-                            "title": "Add Dev",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 5,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 6,
-                            "title": "Adon Smith",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 7,
-                            "title": "Smitha Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "clinet-to-laravel",
-                    "inner_title": "React To Laravel",
-                    "items": [
-                        {
-                            "id": 1,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 2,
-                            "title": "Smiths Marth",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 3,
-                            "title": "Add Dev",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 5,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 6,
-                            "title": "Adon Smith",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 7,
-                            "title": "Smitha Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "clinet-python",
-                    "inner_title": "Python",
-                    "items": [
-                        {
-                            "id": 1,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 2,
-                            "title": "Smiths Marth",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 3,
-                            "title": "Add Dev",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 5,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 6,
-                            "title": "Adon Smith",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 7,
-                            "title": "Smitha Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/brand.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
+                            "path": "http://kniga-store.com.ua/",
                             "images": [
                                 {
                                     "src": "../images/client/png/brand.png"
